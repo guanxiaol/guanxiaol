@@ -87,7 +87,8 @@ I'm a developer passionate about **AI infrastructure**, **LLM tooling**, and **d
 
 ### 🤝 Let's Connect
 
-- 💬 Open an [issue](https://github.com/guanxiaol/WindsurfPoolAPI/issues) on any of my projects
+- � Email: [liuguanxiao@outlook.com](mailto:liuguanxiao@outlook.com)
+- �💬 Open an [issue](https://github.com/guanxiaol/WindsurfPoolAPI/issues) on any of my projects
 - ⭐ Star [WindsurfPoolAPI](https://github.com/guanxiaol/WindsurfPoolAPI) if you find it useful
 - 🍴 PRs and contributions are always welcome
 
