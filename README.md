@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=guanxiaol&style=flat-square&color=4f8cc7&label=Visits" />
-<a href="https://github.com/guanxiaol?tab=followers"><img src="https://img.shields.io/github/followers/guanxiaol?style=flat-square&color=4f8cc7&label=Followers" /></a>
-<a href="https://github.com/guanxiaol/WindsurfPoolAPI"><img src="https://img.shields.io/github/stars/guanxiaol/WindsurfPoolAPI?style=flat-square&color=db61a2&label=WindsurfPoolAPI" /></a>
+<img src="https://img.shields.io/github/followers/guanxiaol?style=for-the-badge&color=4f8cc7&label=Followers" />
+<img src="https://img.shields.io/github/stars/guanxiaol?affiliations=OWNER&style=for-the-badge&color=db61a2&label=Total%20Stars" />
+<img src="https://komarev.com/ghpvc/?username=guanxiaol&style=for-the-badge&color=586069&label=Visits" />
 
 </div>
 
@@ -34,26 +34,15 @@ Off the keyboard: bikes, climbs, the Garmin Edge in my jersey pocket, and a long
 
 <!--
   Edit this list whenever something good happens.
-  Format: ★ **<title or repo>** — _<date>, <one-line context>_
+  Format:  ★  **<title>**  —  *<date, one-line context>*
   Mix English / 中文 freely. Add or remove lines as you like.
 -->
 
-- ★ **WindsurfPoolAPI** crossed **200 ⭐** — pool API serving 113+ AI models behind one OpenAI/Anthropic-compatible endpoint
-- ★ **GarminPoster v0.2** shipped — Coggan-grade sport-science analytics (NP/IF/TSS/CP/VAM) running 100% in the browser
-- ★ <add your own milestone here — e.g. "Trending on GitHub /ai · 2026-03"\>
-- ★ <add another — e.g. "Talk at <conference> · 2026-XX"\>
-- ★ <add another — e.g. "Featured in <newsletter / podcast>"\>
-
-<!-- ideas to fill in:
-  - stars / forks milestones (X00 ⭐, X000 ⭐, trending charts)
-  - conference / meetup talks (give title, date, link if recorded)
-  - podcast / newsletter mentions
-  - hackathon wins or finals
-  - certifications (AWS, Anthropic, Cloud, etc.)
-  - papers, blog posts that went viral
-  - successful AMA / Reddit posts
-  - shipped open-source releases users care about
--->
+- ★ **WindsurfPoolAPI crossed 200 ⭐** — pool API serving 113+ AI models behind one OpenAI/Anthropic-compatible endpoint
+- ★ **GarminPoster v0.2 shipped** — Coggan-grade sport-science analytics (NP / IF / TSS / CP / VAM) running 100% in the browser
+- ★ &lt;add your own milestone here — e.g. "Trending on GitHub /ai · 2026-03"&gt;
+- ★ &lt;add another — e.g. "Talk at &lt;conference&gt; · 2026-XX"&gt;
+- ★ &lt;add another — e.g. "Featured in &lt;newsletter / podcast&gt;"&gt;
 
 ---
 
@@ -82,42 +71,53 @@ All my projects are **MIT**. You don't need my permission for anything — use, 
 
 ---
 
-## Currently
+## Featured projects
 
-- [**WindsurfPoolAPI**](https://github.com/guanxiaol/WindsurfPoolAPI) — 113+ AI models (Claude · GPT · Gemini · Grok · DeepSeek · Kimi) behind one OpenAI/Anthropic-compatible endpoint. **One endpoint, zero lock-in.**
-- [**GarminPoster**](https://github.com/guanxiaol/garminposter) — Garmin/Wahoo `.fit/.tcx/.gpx` → beautiful posters & animated videos. NP/IF/TSS/CP/VAM coach-grade analytics. 100% client-side. → [live demo](https://guanxiaol.github.io/garminposter/)
-- [**pomelo-context**](https://github.com/guanxiaol/pomelo-context) — Low-token protocol for agent-readable, human-readable artifacts.
-- [**copilot-feedback-loop**](https://github.com/guanxiaol/copilot-feedback-loop) — Puts humans back in the loop for Copilot Chat Agent.
+### 🛡 [WindsurfPoolAPI](https://github.com/guanxiaol/WindsurfPoolAPI)
+
+[![stars](https://img.shields.io/github/stars/guanxiaol/WindsurfPoolAPI?style=flat-square&color=db61a2&label=%E2%98%85)](https://github.com/guanxiaol/WindsurfPoolAPI/stargazers)
+[![forks](https://img.shields.io/github/forks/guanxiaol/WindsurfPoolAPI?style=flat-square&color=4f8cc7&label=forks)](https://github.com/guanxiaol/WindsurfPoolAPI/network/members)
+[![lang](https://img.shields.io/github/languages/top/guanxiaol/WindsurfPoolAPI?style=flat-square&color=586069)](https://github.com/guanxiaol/WindsurfPoolAPI)
+[![last](https://img.shields.io/github/last-commit/guanxiaol/WindsurfPoolAPI?style=flat-square&color=24292f&label=updated)](https://github.com/guanxiaol/WindsurfPoolAPI/commits)
+
+Enterprise multi-account pool serving **113+ AI models** (Claude · GPT · Gemini · Grok · DeepSeek · Kimi) behind **one** OpenAI/Anthropic-compatible endpoint. Docker one-command deploy, VS Code & Cursor extensions, HTTP/2 session pooling, identity-neutralisation sanitiser. **One endpoint, zero lock-in.**
 
 ---
 
-## Featured projects
+### 🚴 [GarminPoster](https://github.com/guanxiaol/garminposter) &nbsp;&nbsp; <a href="https://guanxiaol.github.io/garminposter/">→ live demo</a>
 
-<p align="center">
-  <a href="https://github.com/guanxiaol/WindsurfPoolAPI">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=guanxiaol&repo=WindsurfPoolAPI&theme=transparent&hide_border=true&title_color=4f8cc7&text_color=586069&icon_color=4f8cc7" />
-  </a>
-  <a href="https://github.com/guanxiaol/garminposter">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=guanxiaol&repo=garminposter&theme=transparent&hide_border=true&title_color=4f8cc7&text_color=586069&icon_color=4f8cc7" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/guanxiaol/pomelo-context">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=guanxiaol&repo=pomelo-context&theme=transparent&hide_border=true&title_color=4f8cc7&text_color=586069&icon_color=4f8cc7" />
-  </a>
-  <a href="https://github.com/guanxiaol/copilot-feedback-loop">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=guanxiaol&repo=copilot-feedback-loop&theme=transparent&hide_border=true&title_color=4f8cc7&text_color=586069&icon_color=4f8cc7" />
-  </a>
-</p>
+[![stars](https://img.shields.io/github/stars/guanxiaol/garminposter?style=flat-square&color=db61a2&label=%E2%98%85)](https://github.com/guanxiaol/garminposter/stargazers)
+[![forks](https://img.shields.io/github/forks/guanxiaol/garminposter?style=flat-square&color=4f8cc7&label=forks)](https://github.com/guanxiaol/garminposter/network/members)
+[![lang](https://img.shields.io/github/languages/top/guanxiaol/garminposter?style=flat-square&color=586069)](https://github.com/guanxiaol/garminposter)
+[![last](https://img.shields.io/github/last-commit/guanxiaol/garminposter?style=flat-square&color=24292f&label=updated)](https://github.com/guanxiaol/garminposter/commits)
+
+Drag your Garmin / Wahoo / Coros `.fit · .tcx · .gpx` onto the page → out come **beautiful posters & 8-second WebM videos** with Coggan-grade NP / IF / TSS / CP / VAM analytics. 100% client-side, never uploads. The free open-source answer to paywalled Relive.
+
+---
+
+### 🧠 [pomelo-context](https://github.com/guanxiaol/pomelo-context)
+
+[![stars](https://img.shields.io/github/stars/guanxiaol/pomelo-context?style=flat-square&color=db61a2&label=%E2%98%85)](https://github.com/guanxiaol/pomelo-context/stargazers)
+[![forks](https://img.shields.io/github/forks/guanxiaol/pomelo-context?style=flat-square&color=4f8cc7&label=forks)](https://github.com/guanxiaol/pomelo-context/network/members)
+[![lang](https://img.shields.io/github/languages/top/guanxiaol/pomelo-context?style=flat-square&color=586069)](https://github.com/guanxiaol/pomelo-context)
+[![last](https://img.shields.io/github/last-commit/guanxiaol/pomelo-context?style=flat-square&color=24292f&label=updated)](https://github.com/guanxiaol/pomelo-context/commits)
+
+Low-token protocol for **agent-readable, human-readable** artifacts. Cuts token cost for long-running agents without losing fidelity.
+
+---
+
+### 🤖 [copilot-feedback-loop](https://github.com/guanxiaol/copilot-feedback-loop)
+
+[![stars](https://img.shields.io/github/stars/guanxiaol/copilot-feedback-loop?style=flat-square&color=db61a2&label=%E2%98%85)](https://github.com/guanxiaol/copilot-feedback-loop/stargazers)
+[![forks](https://img.shields.io/github/forks/guanxiaol/copilot-feedback-loop?style=flat-square&color=4f8cc7&label=forks)](https://github.com/guanxiaol/copilot-feedback-loop/network/members)
+[![lang](https://img.shields.io/github/languages/top/guanxiaol/copilot-feedback-loop?style=flat-square&color=586069)](https://github.com/guanxiaol/copilot-feedback-loop)
+[![last](https://img.shields.io/github/last-commit/guanxiaol/copilot-feedback-loop?style=flat-square&color=24292f&label=updated)](https://github.com/guanxiaol/copilot-feedback-loop/commits)
+
+VS Code extension that puts **humans back in the loop** for Copilot Chat Agent. Trust, but verify.
 
 ---
 
 ## Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=guanxiaol&show_icons=true&theme=transparent&hide_border=true&title_color=4f8cc7&text_color=586069&icon_color=4f8cc7&ring_color=db61a2&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guanxiaol&layout=compact&theme=transparent&hide_border=true&title_color=4f8cc7&text_color=586069&langs_count=8&hide=html,css" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=guanxiaol&theme=transparent&hide_border=true&background=00000000&stroke=db61a2&ring=4f8cc7&fire=db61a2&currStreakLabel=4f8cc7&sideLabels=586069&dates=8b949e&sideNums=24292f&currStreakNum=db61a2&excludeDaysLabel=8b949e" alt="streak" />
@@ -128,14 +128,10 @@ All my projects are **MIT**. You don't need my permission for anything — use, 
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guanxiaol&bg_color=00000000&color=24292f&line=4f8cc7&point=db61a2&area=true&area_color=4f8cc7&hide_border=true" alt="Activity graph" width="100%" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guanxiaol/guanxiaol/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guanxiaol/guanxiaol/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/guanxiaol/guanxiaol/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/guanxiaol/guanxiaol/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
