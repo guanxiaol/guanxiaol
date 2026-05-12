@@ -30,6 +30,33 @@ Off the keyboard: bikes, climbs, the Garmin Edge in my jersey pocket, and a long
 
 ---
 
+## Highlights · 个人里程碑
+
+<!--
+  Edit this list whenever something good happens.
+  Format: ★ **<title or repo>** — _<date>, <one-line context>_
+  Mix English / 中文 freely. Add or remove lines as you like.
+-->
+
+- ★ **WindsurfPoolAPI** crossed **200 ⭐** — pool API serving 113+ AI models behind one OpenAI/Anthropic-compatible endpoint
+- ★ **GarminPoster v0.2** shipped — Coggan-grade sport-science analytics (NP/IF/TSS/CP/VAM) running 100% in the browser
+- ★ <add your own milestone here — e.g. "Trending on GitHub /ai · 2026-03"\>
+- ★ <add another — e.g. "Talk at <conference> · 2026-XX"\>
+- ★ <add another — e.g. "Featured in <newsletter / podcast>"\>
+
+<!-- ideas to fill in:
+  - stars / forks milestones (X00 ⭐, X000 ⭐, trending charts)
+  - conference / meetup talks (give title, date, link if recorded)
+  - podcast / newsletter mentions
+  - hackathon wins or finals
+  - certifications (AWS, Anthropic, Cloud, etc.)
+  - papers, blog posts that went viral
+  - successful AMA / Reddit posts
+  - shipped open-source releases users care about
+-->
+
+---
+
 ## Manifesto
 
 I keep four things in mind when I decide what to ship.
