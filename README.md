@@ -185,7 +185,7 @@ That question keeps me building.
 <p>
   <a href="https://github.com/guanxiaol"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:qiqilgx1314@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://guanxiaol.github.io/garmin-analyzer/"><img src="https://img.shields.io/badge/Garmin Analyzer-4f8cc7?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://guanxiaol.github.io/garmin-analyzer/"><img src="https://img.shields.io/badge/Garmin_Analyzer-4f8cc7?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="https://github.com/guanxiaol/WindsurfPoolAPI"><img src="https://img.shields.io/badge/WindsurfPoolAPI-db61a2?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
 </p>
 
