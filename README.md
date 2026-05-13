@@ -39,8 +39,8 @@ Off the keyboard: bikes, climbs, the Garmin Edge in my jersey pocket, and a long
 -->
 
 - ★ **WindsurfPoolAPI crossed 200 ⭐** — pool API serving 113+ AI models behind one OpenAI/Anthropic-compatible endpoint
-- ★ **GarminPoster v0.2 shipped** — Coggan-grade sport-science analytics (NP / IF / TSS / CP / VAM) running 100% in the browser
-- ★ **GarminPoster v0.2 — Coggan-grade sport-science metrics** — VI · EF · Decoupling · CP·W′ · VAM · TRIMP · GAP, all running 100% client-side · *2026-05*
+- ★ **Garmin Analyzer v0.2 shipped** — Coggan-grade sport-science analytics (NP / IF / TSS / CP / VAM) running 100% in the browser
+- ★ **Garmin Analyzer v0.2 — Coggan-grade sport-science metrics** — VI · EF · Decoupling · CP·W′ · VAM · TRIMP · GAP, all running 100% client-side · *2026-05*
 - ★ **Cross-origin PNG/JPG export hang squashed** — diagnosed and fixed the silent `html-to-image` failure caused by Google Fonts `cssRules` access · *2026-05*
 
 ---
@@ -83,12 +83,12 @@ Enterprise multi-account pool serving **113+ AI models** (Claude · GPT · Gemin
 
 ---
 
-### 🚴 [GarminPoster](https://github.com/guanxiaol/garminposter) &nbsp;&nbsp; <a href="https://guanxiaol.github.io/garminposter/">→ live demo</a>
+### 🚴 [Garmin Analyzer](https://github.com/guanxiaol/garmin-analyzer) &nbsp;&nbsp; <a href="https://guanxiaol.github.io/garmin-analyzer/">→ live demo</a>
 
-[![stars](https://img.shields.io/github/stars/guanxiaol/garminposter?style=flat-square&color=db61a2&label=%E2%98%85)](https://github.com/guanxiaol/garminposter/stargazers)
-[![forks](https://img.shields.io/github/forks/guanxiaol/garminposter?style=flat-square&color=4f8cc7&label=forks)](https://github.com/guanxiaol/garminposter/network/members)
-[![lang](https://img.shields.io/github/languages/top/guanxiaol/garminposter?style=flat-square&color=586069)](https://github.com/guanxiaol/garminposter)
-[![last](https://img.shields.io/github/last-commit/guanxiaol/garminposter?style=flat-square&color=24292f&label=updated)](https://github.com/guanxiaol/garminposter/commits)
+[![stars](https://img.shields.io/github/stars/guanxiaol/garmin-analyzer?style=flat-square&color=db61a2&label=%E2%98%85)](https://github.com/guanxiaol/garmin-analyzer/stargazers)
+[![forks](https://img.shields.io/github/forks/guanxiaol/garmin-analyzer?style=flat-square&color=4f8cc7&label=forks)](https://github.com/guanxiaol/garmin-analyzer/network/members)
+[![lang](https://img.shields.io/github/languages/top/guanxiaol/garmin-analyzer?style=flat-square&color=586069)](https://github.com/guanxiaol/garmin-analyzer)
+[![last](https://img.shields.io/github/last-commit/guanxiaol/garmin-analyzer?style=flat-square&color=24292f&label=updated)](https://github.com/guanxiaol/garmin-analyzer/commits)
 
 Drag your Garmin / Wahoo / Coros `.fit · .tcx · .gpx` onto the page → out come **beautiful posters & 8-second WebM videos** with Coggan-grade NP / IF / TSS / CP / VAM analytics. 100% client-side, never uploads. The free open-source answer to paywalled Relive.
 
@@ -167,7 +167,7 @@ VS Code extension that puts **humans back in the loop** for Copilot Chat Agent. 
 
 ## Off-keyboard
 
-Long climbs, weekend gravel, a Garmin Edge in the jersey pocket. *That's why GarminPoster exists.*
+Long climbs, weekend gravel, a Garmin Edge in the jersey pocket. *That's why Garmin Analyzer exists.*
 Studying Apple's packaging since long before their hardware — the taste shows up in everything I ship.
 
 I keep asking myself one question:
@@ -185,7 +185,7 @@ That question keeps me building.
 <p>
   <a href="https://github.com/guanxiaol"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:qiqilgx1314@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://guanxiaol.github.io/garminposter/"><img src="https://img.shields.io/badge/GarminPoster-4f8cc7?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://guanxiaol.github.io/garmin-analyzer/"><img src="https://img.shields.io/badge/Garmin Analyzer-4f8cc7?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="https://github.com/guanxiaol/WindsurfPoolAPI"><img src="https://img.shields.io/badge/WindsurfPoolAPI-db61a2?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
 </p>
 
