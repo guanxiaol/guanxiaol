@@ -42,8 +42,6 @@ Off the keyboard: bikes, climbs, the Garmin Edge in my jersey pocket, and a long
 - ★ **GarminPoster v0.2 shipped** — Coggan-grade sport-science analytics (NP / IF / TSS / CP / VAM) running 100% in the browser
 - ★ **GarminPoster v0.2 — Coggan-grade sport-science metrics** — VI · EF · Decoupling · CP·W′ · VAM · TRIMP · GAP, all running 100% client-side · *2026-05*
 - ★ **Cross-origin PNG/JPG export hang squashed** — diagnosed and fixed the silent `html-to-image` failure caused by Google Fonts `cssRules` access · *2026-05*
-- ★ &lt;add another — e.g. "Talk at &lt;conference&gt; · 2026-XX"&gt;
-- ★ &lt;add another — e.g. "Featured in &lt;newsletter / podcast&gt;"&gt;
 
 ---
 
