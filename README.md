@@ -38,8 +38,8 @@ Off the keyboard: bikes, climbs, the Garmin Edge in my jersey pocket, and a long
   Mix English / 中文 freely. Add or remove lines as you like.
 -->
 
+- ★ **Obsidian-HTML v1.0.0 shipped** — first official release: three-mode editor (WYSIWYG · Source · sandboxed-iframe Render), inline-edit roundtrip, Apple-style Calendar, 4 polished bilingual case studies. Mac / Win / Linux binaries on GitHub Releases · *2026-05-17*
 - ★ **WindsurfPoolAPI crossed 200 ⭐** — pool API serving 113+ AI models behind one OpenAI/Anthropic-compatible endpoint
-- ★ **Garmin Analyzer v0.2 shipped** — Coggan-grade sport-science analytics (NP / IF / TSS / CP / VAM) running 100% in the browser
 - ★ **Garmin Analyzer v0.2 — Coggan-grade sport-science metrics** — VI · EF · Decoupling · CP·W′ · VAM · TRIMP · GAP, all running 100% client-side · *2026-05*
 - ★ **Cross-origin PNG/JPG export hang squashed** — diagnosed and fixed the silent `html-to-image` failure caused by Google Fonts `cssRules` access · *2026-05*
 
@@ -71,6 +71,18 @@ All my projects are **MIT**. You don't need my permission for anything — use, 
 ---
 
 ## Featured projects
+
+### 📝 [Obsidian-HTML](https://github.com/guanxiaol/obsidian-html) &nbsp;&nbsp; <a href="https://github.com/guanxiaol/obsidian-html/releases/latest">→ download v1.0</a>
+
+[![stars](https://img.shields.io/github/stars/guanxiaol/obsidian-html?style=flat-square&color=db61a2&label=%E2%98%85)](https://github.com/guanxiaol/obsidian-html/stargazers)
+[![forks](https://img.shields.io/github/forks/guanxiaol/obsidian-html?style=flat-square&color=4f8cc7&label=forks)](https://github.com/guanxiaol/obsidian-html/network/members)
+[![lang](https://img.shields.io/github/languages/top/guanxiaol/obsidian-html?style=flat-square&color=586069)](https://github.com/guanxiaol/obsidian-html)
+[![release](https://img.shields.io/github/v/release/guanxiaol/obsidian-html?style=flat-square&color=6ad28a&label=release)](https://github.com/guanxiaol/obsidian-html/releases/latest)
+[![last](https://img.shields.io/github/last-commit/guanxiaol/obsidian-html?style=flat-square&color=24292f&label=updated)](https://github.com/guanxiaol/obsidian-html/commits)
+
+**Your notes ARE the website. / 笔记本身就是网页。** HTML-native note app — the file format IS the rendering target. No Markdown intermediate, no schema lock-in. Open any note's `.html` in any browser and it looks identical to the editor. **Three-mode editor** (WYSIWYG · raw Source · sandboxed iframe Render). Inline-edit roundtrip — drag a sticky note on the rendered preview, the source HTML's `style="left/top"` updates automatically. Apple-style Calendar (`.calendar` JSON). AI-agent friendly: source mode is where Claude Code / Cursor write, no sanitize tax. Tauri 2 + React + TipTap. Mac / Win / Linux binaries.
+
+---
 
 ### 🛡 [WindsurfPoolAPI](https://github.com/guanxiaol/WindsurfPoolAPI)
 
@@ -154,6 +166,7 @@ VS Code extension that puts **humans back in the loop** for Copilot Chat Agent. 
 **Frontend / Infra** &nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=000)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
@@ -185,6 +198,7 @@ That question keeps me building.
 <p>
   <a href="https://github.com/guanxiaol"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:qiqilgx1314@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/guanxiaol/obsidian-html/releases/latest"><img src="https://img.shields.io/badge/Obsidian--HTML-6657f5?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="https://guanxiaol.github.io/garmin-analyzer/"><img src="https://img.shields.io/badge/Garmin_Analyzer-4f8cc7?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="https://github.com/guanxiaol/WindsurfPoolAPI"><img src="https://img.shields.io/badge/WindsurfPoolAPI-db61a2?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
 </p>
